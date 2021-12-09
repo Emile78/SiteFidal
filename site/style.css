@@ -1,0 +1,9 @@
+#button_menu{
+    text-align: center;
+    color: rgb(204, 203, 233);
+    background-color:rgb(11, 9, 141); ;
+    width: 100px;
+    height: 45px; ;
+    border: rgb(14, 85, 126) 2px solid;
+    font-size: 30px;
+}
